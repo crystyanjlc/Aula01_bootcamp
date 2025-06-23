@@ -1,3 +1,5 @@
-print("Aula 01")
+a  = "olá" 
 
-print("Hello world")
+print(a)
+
+
